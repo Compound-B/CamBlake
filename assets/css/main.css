@@ -7428,7 +7428,7 @@ input[type="color"].cfs2__input:focus, input[type="date"].cfs2__input:focus, inp
       padding: 50px 9px 13px; } }
 
 .ph-1, .ph-2 {
-  background: #352e2e url(../img/ph-1-img_print.jpg) center/cover no-repeat;
+  background: #352e2e url(../img/ph-1-img.jpg) center/cover no-repeat;
   display: flex;
   align-items: center;
   justify-content: center;
