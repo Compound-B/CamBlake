@@ -7427,7 +7427,7 @@ input[type="color"].cfs2__input:focus, input[type="date"].cfs2__input:focus, inp
     .portfolio-collection-5 {
       padding: 50px 9px 13px; } }
 
-.ph-1, .ph-2 {
+.ph-1, .ph-2, ph-3 {
   background: #352e2e url(../img/ph-1-img.jpg) center/cover no-repeat;
   display: flex;
   align-items: center;
@@ -7441,7 +7441,7 @@ input[type="color"].cfs2__input:focus, input[type="date"].cfs2__input:focus, inp
       height: 580px;
       min-height: auto;
       padding: 130px 0; } }
-  .ph-1:after, .ph-2:after {
+  .ph-1:after, .ph-2:after, .ph-2:after {
     content: '';
     background: #ec4738;
     position: absolute;
