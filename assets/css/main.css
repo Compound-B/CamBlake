@@ -7437,11 +7437,11 @@ input[type="color"].cfs2__input:focus, input[type="date"].cfs2__input:focus, inp
   padding: 90px 0 50px;
   margin: 0 0 90px; }
   @media screen and (min-width: 768px) {
-    .ph-1, .ph-2 {
+    .ph-1, .ph-2, ph-3 {
       height: 580px;
       min-height: auto;
       padding: 130px 0; } }
-  .ph-1:after, .ph-2:after, .ph-2:after {
+  .ph-1:after, .ph-2:after, .ph-3:after {
     content: '';
     background: #ec4738;
     position: absolute;
