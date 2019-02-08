@@ -7482,6 +7482,12 @@ input[type="color"].cfs2__input:focus, input[type="date"].cfs2__input:focus, inp
     .ph-3 {
       background-position: center; } }
 
+.ph-4 {
+  background: #352e2e url(../img/ph-4-img.jpg) 25% 50%/cover no-repeat; }
+  @media screen and (min-width: 768px) {
+    .ph-4 {
+      background-position: center; } }
+
 .portfolio__foot {
   position: relative; }
   .portfolio__foot:after {
